@@ -1,0 +1,35 @@
+{
+  "data": {
+    "__schema": {
+      "types": [
+        {
+          "type": {
+            "kind": "OBJECT",
+            "name": "OkQueryCollectionResponseOfServicePlanSelectorQueryRequestAndServicePlanSelectorQueryResponseData",
+            "ofType": null
+          },
+          "isDeprecated": false,
+          "deprecationReason": null
+        },
+        {
+          "type": {
+            "kind": "OBJECT",
+            "name": "OkQueryCollectionResponseOfSubscriptionPackagesQueryAndSubscriptionPackagesResponse",
+            "ofType": null
+          },
+          "isDeprecated": false,
+          "deprecationReason": null
+        },
+        {
+          "type": {
+            "kind": "OBJECT",
+            "name": "OkQueryResponseOfServicePlanQueryRequestAndServicePlanQueryResponseData",
+            "ofType": null
+          },
+          "isDeprecated": false,
+          "deprecationReason": null
+        }
+      ]
+    }
+  }
+}
