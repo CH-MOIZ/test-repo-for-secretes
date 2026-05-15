@@ -1,0 +1,5 @@
+{
+  "comment": "CLIENT-FP-003 — secret_* naming with benign path-like or descriptor values",
+  "secret_path": "static/overpass/fonts",
+  "secret_key_name": "api_public_scope"
+}
